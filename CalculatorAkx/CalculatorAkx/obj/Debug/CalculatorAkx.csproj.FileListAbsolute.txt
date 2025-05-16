@@ -1,0 +1,10 @@
+C:\Users\aksha\source\repos\CalculatorAkx\CalculatorAkx\bin\Debug\CalculatorAkx.exe.config
+C:\Users\aksha\source\repos\CalculatorAkx\CalculatorAkx\bin\Debug\CalculatorAkx.exe
+C:\Users\aksha\source\repos\CalculatorAkx\CalculatorAkx\bin\Debug\CalculatorAkx.pdb
+C:\Users\aksha\source\repos\CalculatorAkx\CalculatorAkx\obj\Debug\CalculatorAkx.csproj.AssemblyReference.cache
+C:\Users\aksha\source\repos\CalculatorAkx\CalculatorAkx\obj\Debug\CalculatorAkx.Form1.resources
+C:\Users\aksha\source\repos\CalculatorAkx\CalculatorAkx\obj\Debug\CalculatorAkx.Properties.Resources.resources
+C:\Users\aksha\source\repos\CalculatorAkx\CalculatorAkx\obj\Debug\CalculatorAkx.csproj.GenerateResource.cache
+C:\Users\aksha\source\repos\CalculatorAkx\CalculatorAkx\obj\Debug\CalculatorAkx.csproj.CoreCompileInputs.cache
+C:\Users\aksha\source\repos\CalculatorAkx\CalculatorAkx\obj\Debug\CalculatorAkx.exe
+C:\Users\aksha\source\repos\CalculatorAkx\CalculatorAkx\obj\Debug\CalculatorAkx.pdb
