@@ -1,0 +1,11 @@
+C:\Users\aksha\source\repos\prac7inheritance\prac7inheritance\bin\Debug\prac7inheritance.exe.config
+C:\Users\aksha\source\repos\prac7inheritance\prac7inheritance\bin\Debug\prac7inheritance.exe
+C:\Users\aksha\source\repos\prac7inheritance\prac7inheritance\bin\Debug\prac7inheritance.pdb
+C:\Users\aksha\source\repos\prac7inheritance\prac7inheritance\obj\Debug\prac7inheritance.csproj.AssemblyReference.cache
+C:\Users\aksha\source\repos\prac7inheritance\prac7inheritance\obj\Debug\prac7inheritance.Form1.resources
+C:\Users\aksha\source\repos\prac7inheritance\prac7inheritance\obj\Debug\prac7inheritance.Properties.Resources.resources
+C:\Users\aksha\source\repos\prac7inheritance\prac7inheritance\obj\Debug\prac7inheritance.csproj.GenerateResource.cache
+C:\Users\aksha\source\repos\prac7inheritance\prac7inheritance\obj\Debug\prac7inheritance.csproj.CoreCompileInputs.cache
+C:\Users\aksha\source\repos\prac7inheritance\prac7inheritance\obj\Debug\prac7inheritance.exe
+C:\Users\aksha\source\repos\prac7inheritance\prac7inheritance\obj\Debug\prac7inheritance.pdb
+C:\Users\aksha\source\repos\prac7inheritance\prac7inheritance\obj\Debug\prac7inheritance.Form2.resources

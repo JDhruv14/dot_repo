@@ -1,0 +1,14 @@
+C:\Users\aksha\source\repos\Prac4Indexer\Prac4Indexer\bin\Debug\net8.0\Prac4Indexer.exe
+C:\Users\aksha\source\repos\Prac4Indexer\Prac4Indexer\bin\Debug\net8.0\Prac4Indexer.deps.json
+C:\Users\aksha\source\repos\Prac4Indexer\Prac4Indexer\bin\Debug\net8.0\Prac4Indexer.runtimeconfig.json
+C:\Users\aksha\source\repos\Prac4Indexer\Prac4Indexer\bin\Debug\net8.0\Prac4Indexer.dll
+C:\Users\aksha\source\repos\Prac4Indexer\Prac4Indexer\bin\Debug\net8.0\Prac4Indexer.pdb
+C:\Users\aksha\source\repos\Prac4Indexer\Prac4Indexer\obj\Debug\net8.0\Prac4Indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aksha\source\repos\Prac4Indexer\Prac4Indexer\obj\Debug\net8.0\Prac4Indexer.AssemblyInfoInputs.cache
+C:\Users\aksha\source\repos\Prac4Indexer\Prac4Indexer\obj\Debug\net8.0\Prac4Indexer.AssemblyInfo.cs
+C:\Users\aksha\source\repos\Prac4Indexer\Prac4Indexer\obj\Debug\net8.0\Prac4Indexer.csproj.CoreCompileInputs.cache
+C:\Users\aksha\source\repos\Prac4Indexer\Prac4Indexer\obj\Debug\net8.0\Prac4Indexer.dll
+C:\Users\aksha\source\repos\Prac4Indexer\Prac4Indexer\obj\Debug\net8.0\refint\Prac4Indexer.dll
+C:\Users\aksha\source\repos\Prac4Indexer\Prac4Indexer\obj\Debug\net8.0\Prac4Indexer.pdb
+C:\Users\aksha\source\repos\Prac4Indexer\Prac4Indexer\obj\Debug\net8.0\Prac4Indexer.genruntimeconfig.cache
+C:\Users\aksha\source\repos\Prac4Indexer\Prac4Indexer\obj\Debug\net8.0\ref\Prac4Indexer.dll
