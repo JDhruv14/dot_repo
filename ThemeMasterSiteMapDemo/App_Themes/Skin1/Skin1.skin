@@ -1,0 +1,3 @@
+﻿<asp:Label runat="server" SkinId="lblskin" FontColor="Blue">
+</asp:Label>
+<asp:Button runat="server" BackColor="black" ForeColor="green" Font-Name="Arial" Font-Size="10pt" />

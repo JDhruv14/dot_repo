@@ -1,0 +1,27 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="ThemeMasterSiteMapDemo.Site" %>
+
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <title>My Website</title>
+    <link href="App_Themes/CustomTheme/Style.css" rel="stylesheet" />
+</head>
+<body>
+    <form runat="server">
+        <div class="header">My Website Header</div>
+
+        <div class="menu">
+            <asp:SiteMapPath runat="server" PathSeparator=" > " />
+            <asp:Menu ID="Menu1" runat="server" DataSourceID="SiteMapDataSource1"
+                Orientation="Horizontal" StaticDisplayLevels="2" CssClass="menuItem" />
+            <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" />
+        </div>
+
+        <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+
+        <div class="footer">
+            &copy; <%= DateTime.Now.Year %> MySite. All rights reserved.
+        </div>
+    </form>
+</body>
+</html>

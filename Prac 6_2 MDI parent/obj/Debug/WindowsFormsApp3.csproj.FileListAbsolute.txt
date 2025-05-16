@@ -1,0 +1,17 @@
+D:\12202040501012\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\12202040501012\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\12202040501012\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\12202040501012\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+D:\12202040501012\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MDIParent1.resources
+D:\12202040501012\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\12202040501012\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\12202040501012\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+D:\12202040501012\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\12202040501012\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+D:\12202040501012\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\aksha\Downloads\MDI parent\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\aksha\Downloads\MDI parent\obj\Debug\WindowsFormsApp3.exe
+C:\Users\aksha\Downloads\MDI parent\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\aksha\OneDrive\Documents\SEM6\.NET\LAB\Practicals\Prac 6_2 MDI parent\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\aksha\OneDrive\Documents\SEM6\.NET\LAB\Practicals\Prac 6_2 MDI parent\obj\Debug\WindowsFormsApp3.exe
+C:\Users\aksha\OneDrive\Documents\SEM6\.NET\LAB\Practicals\Prac 6_2 MDI parent\obj\Debug\WindowsFormsApp3.pdb
