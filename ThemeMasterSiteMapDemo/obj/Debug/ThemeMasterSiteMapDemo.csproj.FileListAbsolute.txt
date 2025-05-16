@@ -116,3 +116,13 @@ C:\Users\aksha\Downloads\ThemeMasterSiteMapDemo\obj\Debug\ThemeMasterSiteMapDemo
 C:\Users\aksha\Downloads\ThemeMasterSiteMapDemo\obj\Debug\ThemeMas.7B4A8783.Up2Date
 C:\Users\aksha\Downloads\ThemeMasterSiteMapDemo\obj\Debug\ThemeMasterSiteMapDemo.dll
 C:\Users\aksha\Downloads\ThemeMasterSiteMapDemo\obj\Debug\ThemeMasterSiteMapDemo.pdb
+C:\Users\aksha\source\dot_repo\ThemeMasterSiteMapDemo\bin\ThemeMasterSiteMapDemo.dll.config
+C:\Users\aksha\source\dot_repo\ThemeMasterSiteMapDemo\bin\ThemeMasterSiteMapDemo.dll
+C:\Users\aksha\source\dot_repo\ThemeMasterSiteMapDemo\bin\ThemeMasterSiteMapDemo.pdb
+C:\Users\aksha\source\dot_repo\ThemeMasterSiteMapDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aksha\source\dot_repo\ThemeMasterSiteMapDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aksha\source\dot_repo\ThemeMasterSiteMapDemo\obj\Debug\ThemeMasterSiteMapDemo.csproj.AssemblyReference.cache
+C:\Users\aksha\source\dot_repo\ThemeMasterSiteMapDemo\obj\Debug\ThemeMasterSiteMapDemo.csproj.CoreCompileInputs.cache
+C:\Users\aksha\source\dot_repo\ThemeMasterSiteMapDemo\obj\Debug\ThemeMas.7B4A8783.Up2Date
+C:\Users\aksha\source\dot_repo\ThemeMasterSiteMapDemo\obj\Debug\ThemeMasterSiteMapDemo.dll
+C:\Users\aksha\source\dot_repo\ThemeMasterSiteMapDemo\obj\Debug\ThemeMasterSiteMapDemo.pdb

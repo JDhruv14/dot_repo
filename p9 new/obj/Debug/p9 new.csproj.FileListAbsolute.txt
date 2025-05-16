@@ -214,3 +214,26 @@ C:\Users\aksha\Downloads\p9 new\obj\Debug\p9 new.csproj.CoreCompileInputs.cache
 C:\Users\aksha\Downloads\p9 new\obj\Debug\p9 new.csproj.Up2Date
 C:\Users\aksha\Downloads\p9 new\obj\Debug\p9 new.dll
 C:\Users\aksha\Downloads\p9 new\obj\Debug\p9 new.pdb
+C:\Users\aksha\source\dot_repo\p9 new\bin\p9 new.dll.config
+C:\Users\aksha\source\dot_repo\p9 new\bin\p9 new.dll
+C:\Users\aksha\source\dot_repo\p9 new\bin\p9 new.pdb
+C:\Users\aksha\source\dot_repo\p9 new\bin\Antlr3.Runtime.dll
+C:\Users\aksha\source\dot_repo\p9 new\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\aksha\source\dot_repo\p9 new\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\aksha\source\dot_repo\p9 new\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aksha\source\dot_repo\p9 new\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\aksha\source\dot_repo\p9 new\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\aksha\source\dot_repo\p9 new\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aksha\source\dot_repo\p9 new\bin\Newtonsoft.Json.dll
+C:\Users\aksha\source\dot_repo\p9 new\bin\System.Web.Optimization.dll
+C:\Users\aksha\source\dot_repo\p9 new\bin\WebGrease.dll
+C:\Users\aksha\source\dot_repo\p9 new\bin\System.Web.Optimization.xml
+C:\Users\aksha\source\dot_repo\p9 new\bin\Newtonsoft.Json.xml
+C:\Users\aksha\source\dot_repo\p9 new\bin\Antlr3.Runtime.pdb
+C:\Users\aksha\source\dot_repo\p9 new\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\aksha\source\dot_repo\p9 new\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aksha\source\dot_repo\p9 new\obj\Debug\p9 new.csproj.AssemblyReference.cache
+C:\Users\aksha\source\dot_repo\p9 new\obj\Debug\p9 new.csproj.CoreCompileInputs.cache
+C:\Users\aksha\source\dot_repo\p9 new\obj\Debug\p9 new.csproj.Up2Date
+C:\Users\aksha\source\dot_repo\p9 new\obj\Debug\p9 new.dll
+C:\Users\aksha\source\dot_repo\p9 new\obj\Debug\p9 new.pdb
